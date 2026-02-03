@@ -1,12 +1,15 @@
 ## **JavaScript Day 2 Assignment – Answers**
 
+
 ## **1. Welcome Program**
 
 ```js
 let name = prompt("Enter your name:");
 alert("Hi, Welcome to JavaScript Training");
 console.log("Hi, Welcome to JavaScript Training");
+```
 
+---
 
 ## **2. Console Methods Practice**
 
@@ -15,7 +18,9 @@ console.log("This is a log message");
 console.warn("This is a warning message");
 console.error("This is an error message");
 console.clear();
+```
 
+---
 
 ## **3. Data Type Identification**
 
@@ -144,4 +149,10 @@ let company = {
 console.log(company.name);
 console.log(company.trainer.name);
 console.log(company.trainer.subject);
+```
 
+---
+
+
+
+Just tell me 👍
