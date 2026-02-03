@@ -153,6 +153,3 @@ console.log(company.trainer.subject);
 
 ---
 
-
-
-Just tell me 👍
