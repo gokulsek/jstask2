@@ -7,6 +7,7 @@ let name = prompt("Enter your name:");
 alert("Hi, Welcome to JavaScript Training");
 console.log("Hi, Welcome to JavaScript Training");
 
+
 ## **2. Console Methods Practice**
 
 ```js
@@ -14,6 +15,7 @@ console.log("This is a log message");
 console.warn("This is a warning message");
 console.error("This is an error message");
 console.clear();
+
 
 ## **3. Data Type Identification**
 
